@@ -1,0 +1,40 @@
+body{
+    background-image: url('/img/cpver.png');
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat; background-size: cover;
+}
+.nav{
+    margin-left: 20px;
+}
+.card-text{
+    font-weight: 700;
+    color: white;
+}
+.container{
+    color: white;
+    width: 880px;
+    margin-top: 80px;
+}
+input[type="text"], input[type="password"]
+{
+    background: rgba(0, 0, 0, 0);
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: white;
+}
+label{
+    font-weight: 500;
+    font-size: 19px;
+}
+.btn-primary{
+    font-weight: 700;
+    color: white;
+    border: 0;
+   background-color:#ff7d01;
+   margin-bottom: 20px;
+   margin-top: 50px;
+}
+

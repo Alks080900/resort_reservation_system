@@ -1,0 +1,77 @@
+body{
+    background-image: url('/img/cpver.PNG');
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat; background-size: cover;
+}
+.nav{
+    margin-left: 20px;
+}
+.card-text{
+    font-weight: 700;
+    color: white;
+}
+
+.c3{
+    width: 880px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.c1, .c2{
+    margin-bottom: 20px;
+}
+label{
+    font-weight: 500;
+    font-size: 19px;
+}
+.form-control, input[type=date]{
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+input, input[type=file], select{
+    margin-top: 20px;
+}
+.btn-primary{
+    font-weight: 700;
+    color: white;
+    border: 0;
+   background-color:#ff7d01;
+}
+form{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.c2{
+    font-weight: 700;
+    color: white;
+}
+#cont{
+    width: 880px;
+}
+.card{
+    cursor: pointer;
+}
+.btn-primary{
+    font-weight: 700;
+    color: white;
+    border: 0;
+   background-color:#ff7d01;
+}
+.modal-dialog {
+    max-width: 850px;
+    margin: 2rem auto;
+}
+.card img{
+    height: 170px;
+}
+.card a{
+    margin-top: 120px
+}
+#goback{
+    width: 200px;
+}
+.meow{
+    border: none;
+    background-color: transparent;
+}
